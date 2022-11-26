@@ -1,0 +1,11 @@
+body, html{
+    position: relative;
+    width: 100%;
+    height: 100%;
+
+    /* background: #FFFFFF; */
+    /* box-shadow: inset 0px 0px 50px 25px rgba(0, 0, 0, 0.25); */
+    background: url("https://1r4scx402tmr26fqa93wk6an-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/02-umass-amherst-exterior-scaled.jpg") no-repeat center center fixed;
+    background-size: 100% 100%;
+
+}
